@@ -31,3 +31,5 @@ of this project. We strongly encourage you to use modern perl
 techniques. However, please be aware that many of our critical path
 machines are on perl 5.10, so demonstrating an ability to work under
 that constraint is a bonus.
+
+Join the chat at https://gitter.im/binary-com/candidate-odds-exercise
